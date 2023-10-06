@@ -12,8 +12,8 @@ function True_ai() {
                 </div>
                 <div className='True_ai_main_text true'>
                     <div className='true_ai_heading'>
-                        Meet<div className='true_ai_heading_colorful'>True-AI
-                            <img src='https://www.lenscorp.ai/_next/static/media/underline.27e9f7f7.svg' /></div>
+                        Meet<span className='true_ai_heading_colorful'>True-AI
+                            <img src='https://www.lenscorp.ai/_next/static/media/underline.27e9f7f7.svg' /></span>
                     </div>
                     <div className='true_ai_key_feature'>
                         Design. Create. Deploy.

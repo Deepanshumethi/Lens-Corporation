@@ -8,13 +8,13 @@ function Nav() {
     const Show=()=>{
         setVisible(!visible)
     //    alert("hellio")
-    console.log(visible);
+    // console.log(visible);
     }
 
 
     var prevScrollpos = window.pageYOffset;
 window.onscroll = function() {
-    console.log(window.pageYOffset)
+    // console.log(window.pageYOffset)
   var currentScrollPos = window.pageYOffset;
   if (prevScrollpos > currentScrollPos) {
     document.getElementById("navbar").style.top = "0";
